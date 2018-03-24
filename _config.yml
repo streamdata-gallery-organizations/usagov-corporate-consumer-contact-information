@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: usagov-corporate-consumer-contact-information.api.streamdata.gallery
+title: Streamdata Gallery USA.Gov Corporate Consumer Contact Information
+url: usagov-corporate-consumer-contact-information.streamdata.gallery
 tag: USA.Gov Corporate Consumer Contact Information
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: usagov-corporate-consumer-contact-information
 github_branch: master
 collections:
